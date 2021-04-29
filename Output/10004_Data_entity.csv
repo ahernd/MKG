@@ -1,0 +1,1246 @@
+,source,target,edge
+0,,machine learning capabilities,     
+1,rights,,reserved
+2,contained,specifically Tech Mahindra,is proprietary
+3,only  who,such  evaluation,made available
+4,23                   Document document,above  BT,remain valid
+5,,9820765659 E -,Mail
+6,,,com
+7,rights,,reserved
+8,,14  Contents,Page
+9,,,Background
+10,,,.
+11,,,.
+12,,,.
+13,,,.
+14,,,.
+15,,,.
+16,,,.
+17,,,.
+18,,,.
+19,,,.
+20,,,.
+21,,,.
+22,,,.
+23,,,.
+24,,,.
+25,,,.
+26,,,.
+27,,,.
+28,,,.
+29,,,.
+30,,,.
+31,,,.
+32,,,.
+33,,,.
+34,,,.
+35,,,.
+36,,,.
+37,,,.
+38,,,.
+39,,,.
+40,,,.
+41,,,.
+42,,,.
+43,,,.
+44,,,.
+45,,,.
+46,,,.
+47,,,.
+48,,,.
+49,,,.
+50,,,.
+51,,,.
+52,,,.
+53,,,.
+54,,,.
+55,,,.
+56,,,.
+57,,,.
+58,,,.
+59,,,.
+60,,,.
+61,,,.
+62,,,.
+63,,,.
+64,,,.
+65,,,.
+66,,,.
+67,,,.
+68,,,.
+69,,,.
+70,,,.
+71,,,.
+72,,,.
+73,,,.
+74,,,.
+75,,,.
+76,,,.
+77,,,.
+78,,,.
+79,,,.
+80,,,.
+81,,,.
+82,,,.
+83,,,.
+84,,,.
+85,,,.
+86,,,.
+87,,,.
+88,,,.
+89,,,.
+90,,,.
+91,,,.
+92,,,.
+93,,,.
+94,,,.
+95,,,.
+96,,,.
+97,,,.
+98,,,.
+99,,,.
+100,,,.
+101,,,.
+102,,,.
+103,,,.
+104,,,.
+105,,,.
+106,,,.
+107,,,.
+108,,,.
+109,,,.
+110,,,.
+111,,,.
+112,,,.
+113,,,.
+114,,,.
+115,,,.
+116,,,.
+117,,,.
+118,,,.
+119,,,.
+120,,,.
+121,,,.
+122,,,.
+123,,,.
+124,,,.
+125,,,2
+126,,,Scope
+127,,,.
+128,,,.
+129,,,.
+130,,,.
+131,,,.
+132,,,.
+133,,,.
+134,,,.
+135,,,.
+136,,,.
+137,,,.
+138,,,.
+139,,,.
+140,,,.
+141,,,.
+142,,,.
+143,,,.
+144,,,.
+145,,,.
+146,,,.
+147,,,.
+148,,,.
+149,,,.
+150,,,.
+151,,,.
+152,,,.
+153,,,.
+154,,,.
+155,,,.
+156,,,.
+157,,,.
+158,,,.
+159,,,.
+160,,,.
+161,,,.
+162,,,.
+163,,,.
+164,,,.
+165,,,.
+166,,,.
+167,,,.
+168,,,.
+169,,,.
+170,,,.
+171,,,.
+172,,,.
+173,,,.
+174,,,.
+175,,,.
+176,,,.
+177,,,.
+178,,,.
+179,,,.
+180,,,.
+181,,,.
+182,,,.
+183,,,.
+184,,,.
+185,,,.
+186,,,.
+187,,,.
+188,,,.
+189,,,.
+190,,,.
+191,,,.
+192,,,.
+193,,,.
+194,,,.
+195,,,.
+196,,,.
+197,,,.
+198,,,.
+199,,,.
+200,,,.
+201,,,.
+202,,,.
+203,,,.
+204,,,.
+205,,,.
+206,,,.
+207,,,.
+208,,,.
+209,,,.
+210,,,.
+211,,,.
+212,,,.
+213,,,.
+214,,,.
+215,,,.
+216,,,.
+217,,,.
+218,,,.
+219,,,.
+220,,,.
+221,,,.
+222,,,.
+223,,,.
+224,,,.
+225,,,.
+226,,,.
+227,,,.
+228,,,.
+229,,,.
+230,,,.
+231,,,.
+232,,,.
+233,,,.
+234,,,.
+235,,,.
+236,,,.
+237,,,.
+238,,,.
+239,,,.
+240,,,.
+241,,,.
+242,,,.
+243,,,.
+244,,,.
+245,,,.
+246,,,.
+247,,,.
+248,,,.
+249,,,.
+250,,,.
+251,,,3
+252,,,View
+253,,,.
+254,,,.
+255,,,.
+256,,,.
+257,,,.
+258,,,.
+259,,,.
+260,,,.
+261,,,.
+262,,,.
+263,,,.
+264,,,.
+265,,,.
+266,,,.
+267,,,.
+268,,,.
+269,,,.
+270,,,.
+271,,,.
+272,,,.
+273,,,.
+274,,,.
+275,,,.
+276,,,.
+277,,,.
+278,,,.
+279,,,.
+280,,,.
+281,,,.
+282,,,.
+283,,,.
+284,,,.
+285,,,.
+286,,,.
+287,,,.
+288,,,.
+289,,,.
+290,,,.
+291,,,.
+292,,,.
+293,,,.
+294,,,.
+295,,,.
+296,,,.
+297,,,.
+298,,,.
+299,,,.
+300,,,.
+301,,,.
+302,,,.
+303,,,.
+304,,,.
+305,,,.
+306,,,.
+307,,,.
+308,,,.
+309,,,.
+310,,,.
+311,,,.
+312,,,.
+313,,,.
+314,,,.
+315,,,.
+316,,,.
+317,,,.
+318,,,.
+319,,,.
+320,,,.
+321,,,.
+322,,,.
+323,,,.
+324,,,.
+325,,,.
+326,,,.
+327,,,.
+328,,,.
+329,,,.
+330,,,.
+331,,,.
+332,,,.
+333,,,.
+334,,,.
+335,,,.
+336,,,.
+337,,,.
+338,,,.
+339,,,.
+340,,,.
+341,,,.
+342,,,.
+343,,,.
+344,,,.
+345,,,.
+346,,,.
+347,,,4
+348,,,Considerations
+349,,,.
+350,,,.
+351,,,.
+352,,,.
+353,,,.
+354,,,.
+355,,,.
+356,,,.
+357,,,.
+358,,,.
+359,,,.
+360,,,.
+361,,,.
+362,,,.
+363,,,.
+364,,,.
+365,,,.
+366,,,.
+367,,,.
+368,,,.
+369,,,.
+370,,,.
+371,,,.
+372,,,.
+373,,,.
+374,,,.
+375,,,.
+376,,,.
+377,,,.
+378,,,.
+379,,,.
+380,,,.
+381,,,.
+382,,,.
+383,,,.
+384,,,.
+385,,,.
+386,,,.
+387,,,.
+388,,,.
+389,,,.
+390,,,.
+391,,,.
+392,,,.
+393,,,.
+394,,,.
+395,,,.
+396,,,.
+397,,,.
+398,,,5
+399,,,Considerations
+400,,,.
+401,,,.
+402,,,.
+403,,,.
+404,,,.
+405,,,.
+406,,,.
+407,,,.
+408,,,.
+409,,,.
+410,,,.
+411,,,.
+412,,,.
+413,,,.
+414,,,.
+415,,,.
+416,,,.
+417,,,.
+418,,,.
+419,,,.
+420,,,.
+421,,,.
+422,,,.
+423,,,.
+424,,,.
+425,,,.
+426,,,.
+427,,,.
+428,,,.
+429,,,.
+430,,,.
+431,,,.
+432,,,.
+433,,,.
+434,,,.
+435,,,.
+436,,,.
+437,,,.
+438,,,.
+439,,,.
+440,,,.
+441,,,.
+442,,,.
+443,,,.
+444,,,.
+445,,,.
+446,,,.
+447,,,.
+448,,,.
+449,,,.
+450,,,.
+451,,,.
+452,,,.
+453,,,.
+454,,,.
+455,,,.
+456,,,.
+457,,,.
+458,,,.
+459,,,.
+460,,,.
+461,,,.
+462,,,.
+463,,,.
+464,,,.
+465,,,.
+466,,,.
+467,,,.
+468,,,.
+469,,,.
+470,,,.
+471,,,.
+472,,,.
+473,,,.
+474,,,.
+475,,,.
+476,,,.
+477,,,.
+478,,,.
+479,,,.
+480,,,.
+481,,,.
+482,,,.
+483,,,.
+484,,,.
+485,,,.
+486,,,.
+487,,,.
+488,,,.
+489,,,.
+490,,,.
+491,,,.
+492,,,.
+493,,,.
+494,,,.
+495,,,.
+496,,,.
+497,,,.
+498,,,.
+499,,,6
+500,,Capabilities,PLATFORMS
+501,,,.
+502,,,.
+503,,,.
+504,,,.
+505,,,.
+506,,,.
+507,,,.
+508,,,.
+509,,,.
+510,,,.
+511,,,.
+512,,,.
+513,,,.
+514,,,.
+515,,,.
+516,,,.
+517,,,.
+518,,,.
+519,,,.
+520,,,.
+521,,,.
+522,,,.
+523,,,.
+524,,,.
+525,,,.
+526,,,.
+527,,,.
+528,,,.
+529,,,.
+530,,,.
+531,,,.
+532,,,.
+533,,,.
+534,,,.
+535,,,.
+536,,,.
+537,,,.
+538,,,.
+539,,,.
+540,,,.
+541,,,.
+542,,,.
+543,,,.
+544,,,.
+545,,,.
+546,,,.
+547,,,.
+548,,,.
+549,,,.
+550,,,.
+551,,,.
+552,,,.
+553,,,.
+554,,,.
+555,,,.
+556,,,.
+557,,,.
+558,,,.
+559,,,.
+560,,,.
+561,,,.
+562,,,.
+563,,,.
+564,,,.
+565,,,.
+566,,,.
+567,,,.
+568,,,.
+569,,,.
+570,,,.
+571,,,.
+572,,,.
+573,,,.
+574,,,.
+575,,,.
+576,,,.
+577,,,.
+578,,,.
+579,,,.
+580,,,.
+581,,,.
+582,,,.
+583,,,.
+584,,,.
+585,,,.
+586,,,.
+587,,,.
+588,,,.
+589,,,.
+590,,,.
+591,,,.
+592,,,.
+593,,,.
+594,,,.
+595,,,.
+596,,,7
+597,,,View
+598,,,.
+599,,,.
+600,,,.
+601,,,.
+602,,,.
+603,,,.
+604,,,.
+605,,,.
+606,,,.
+607,,,.
+608,,,.
+609,,,.
+610,,,.
+611,,,.
+612,,,.
+613,,,.
+614,,,.
+615,,,.
+616,,,.
+617,,,.
+618,,,.
+619,,,.
+620,,,.
+621,,,.
+622,,,.
+623,,,.
+624,,,.
+625,,,.
+626,,,.
+627,,,.
+628,,,.
+629,,,.
+630,,,.
+631,,,.
+632,,,.
+633,,,.
+634,,,.
+635,,,.
+636,,,.
+637,,,.
+638,,,.
+639,,,.
+640,,,.
+641,,,.
+642,,,.
+643,,,.
+644,,,.
+645,,,.
+646,,,.
+647,,,.
+648,,,.
+649,,,.
+650,,,.
+651,,,.
+652,,,.
+653,,,.
+654,,,.
+655,,,.
+656,,,.
+657,,,.
+658,,,.
+659,,,.
+660,,,.
+661,,,.
+662,,,.
+663,,,.
+664,,,.
+665,,,.
+666,,,.
+667,,,.
+668,,,.
+669,,,.
+670,,,.
+671,,,.
+672,,,.
+673,,,.
+674,,,.
+675,,,.
+676,,,.
+677,,,.
+678,,,.
+679,,,.
+680,,,.
+681,,,.
+682,,,.
+683,,,.
+684,,,.
+685,,,.
+686,,,.
+687,,,.
+688,,,.
+689,,,.
+690,,,.
+691,,,.
+692,,,.
+693,,,.
+694,,,.
+695,,,.
+696,,,.
+697,,,.
+698,,,.
+699,,,.
+700,,,.
+701,,,.
+702,,,.
+703,,,.
+704,,,.
+705,,,.
+706,,,.
+707,,,.
+708,,,8
+709,,Hybrid Environment,view
+710,,,.
+711,,,.
+712,,,.
+713,,,.
+714,,,.
+715,,,.
+716,,,.
+717,,,.
+718,,,.
+719,,,.
+720,,,.
+721,,,.
+722,,,.
+723,,,.
+724,,,.
+725,,,.
+726,,,.
+727,,,.
+728,,,.
+729,,,.
+730,,,.
+731,,,.
+732,,,.
+733,,,.
+734,,,.
+735,,,.
+736,,,.
+737,,,.
+738,,,.
+739,,,.
+740,,,.
+741,,,.
+742,,,.
+743,,,.
+744,,,.
+745,,,.
+746,,,.
+747,,,.
+748,,,.
+749,,,.
+750,,,.
+751,,,.
+752,,,.
+753,,,.
+754,,,.
+755,,,.
+756,,,.
+757,,,.
+758,,,.
+759,,,.
+760,,,.
+761,,,.
+762,,,.
+763,,,.
+764,,,.
+765,,,.
+766,,,.
+767,,,.
+768,,,.
+769,,,.
+770,,,.
+771,,,.
+772,,,.
+773,,,.
+774,,,.
+775,,,.
+776,,,.
+777,,,.
+778,,,.
+779,,,.
+780,,,.
+781,,,9
+782,,,Studies
+783,,,.
+784,,,.
+785,,,.
+786,,,.
+787,,,.
+788,,,.
+789,,,.
+790,,,.
+791,,,.
+792,,,.
+793,,,.
+794,,,.
+795,,,.
+796,,,.
+797,,,.
+798,,,.
+799,,,.
+800,,,.
+801,,,.
+802,,,.
+803,,,.
+804,,,.
+805,,,.
+806,,,.
+807,,,.
+808,,,.
+809,,,.
+810,,,.
+811,,,.
+812,,,.
+813,,,.
+814,,,.
+815,,,.
+816,,,.
+817,,,.
+818,,,.
+819,,,.
+820,,,.
+821,,,.
+822,,,.
+823,,,.
+824,,,.
+825,,,.
+826,,,.
+827,,,.
+828,,,.
+829,,,.
+830,,,.
+831,,,.
+832,,,.
+833,,,.
+834,,,.
+835,,,.
+836,,,.
+837,,,.
+838,,,.
+839,,,.
+840,,,.
+841,,,.
+842,,,.
+843,,,.
+844,,,.
+845,,,.
+846,,,.
+847,,,.
+848,,,.
+849,,,.
+850,,,.
+851,,,.
+852,,,.
+853,,,.
+854,,,.
+855,,,.
+856,,,.
+857,,,.
+858,,,.
+859,,,.
+860,,,.
+861,,,.
+862,,,.
+863,,,.
+864,,,.
+865,,,.
+866,,,.
+867,,,.
+868,,,.
+869,,,.
+870,,,.
+871,,,.
+872,,,.
+873,,,.
+874,,,.
+875,,,.
+876,,,.
+877,,,.
+878,,,.
+879,,,.
+880,,,.
+881,,,.
+882,,,.
+883,,,.
+884,,,.
+885,,,.
+886,,,.
+887,,,.
+888,,,.
+889,,,.
+890,,,.
+891,,,.
+892,,,.
+893,,,.
+894,,,.
+895,12,You,Thank
+896,,,.
+897,,,.
+898,,,.
+899,,,.
+900,,,.
+901,,,.
+902,,,.
+903,,,.
+904,,,.
+905,,,.
+906,,,.
+907,,,.
+908,,,.
+909,,,.
+910,,,.
+911,,,.
+912,,,.
+913,,,.
+914,,,.
+915,,,.
+916,,,.
+917,,,.
+918,,,.
+919,,,.
+920,,,.
+921,,,.
+922,,,.
+923,,,.
+924,,,.
+925,,,.
+926,,,.
+927,,,.
+928,,,.
+929,,,.
+930,,,.
+931,,,.
+932,,,.
+933,,,.
+934,,,.
+935,,,.
+936,,,.
+937,,,.
+938,,,.
+939,,,.
+940,,,.
+941,,,.
+942,,,.
+943,,,.
+944,,,.
+945,,,.
+946,,,.
+947,,,.
+948,,,.
+949,,,.
+950,,,.
+951,,,.
+952,,,.
+953,,,.
+954,,,.
+955,,,.
+956,,,.
+957,,,.
+958,,,.
+959,,,.
+960,,,.
+961,,,.
+962,,,.
+963,,,.
+964,,,.
+965,,,.
+966,,,.
+967,,,.
+968,,,.
+969,,,.
+970,,,.
+971,,,.
+972,,,.
+973,,,.
+974,,,.
+975,,,.
+976,,,.
+977,,,.
+978,,,.
+979,,,.
+980,,,.
+981,,,.
+982,,,.
+983,,,.
+984,,,.
+985,,,.
+986,,,.
+987,,,.
+988,,,.
+989,,,.
+990,,,.
+991,,,.
+992,,,.
+993,,,.
+994,,,.
+995,,,.
+996,,,.
+997,,,.
+998,,,.
+999,,,.
+1000,,,.
+1001,,,.
+1002,,,.
+1003,,,.
+1004,,,.
+1005,,,.
+1006,,,.
+1007,,,.
+1008,,,.
+1009,,,.
+1010,,,.
+1011,,,.
+1012,,,.
+1013,,,.
+1014,,,.
+1015,,,.
+1016,,,"        
+
+ "
+1017,rights,,reserved
+1018,,4 14 1,Page
+1019,Telecom industry,operational business efficiencies,investing
+1020,different business units,competitive  edge,plans
+1021,driven   Leverage crowd,Ease  integration,compute
+1022,high platform architecture which,AI British Telecom,focuses on
+1023,strategy,AI ML platform,takes into
+1024,architecture development processes,AI ML Enterprise Architecture,help
+1025,,,landscape
+1026,,,3
+1027,just data methodologies,real world projects,grounded in
+1028,AI ML teams,AI model development nuances,use
+1029,CRISP DM,major data phases,©
+1030,rights,,reserved
+1031,different  it,different  phases,is
+1032,arrows,important process phases,indicate
+1033,outer  circle,cyclic data mining,symbolizes
+1034,solution,,continues
+1035,subsequent data mining processes,previous  ones,trigger new
+1036,enterprise,process,help
+1037,key  it,key  technologies,requires several
+1038,ML  that,ML DL models,tools
+1039,Data pipelines,ML data management needs,provide
+1040,they,resources,scientists
+1041,Compute,model tasks,speed
+1042,Infrastructure endpoints,AI ML operations,provide
+1043,DevOps,common AI production,are
+1044,Today  it,two  approaches,takes
+1045,DevOps,increasingly  industry,refined as
+1046,DevOps projects,AI ML models,need
+1047,,,4
+1048,Guiding Following,AI ML platform,are
+1049,This,other  customers,based on
+1050,architectural building blocks,AI ML flexibility,support
+1051,,,II
+1052,building they,easier  wheel,be repeatable
+1053,,,III
+1054,Catalog  marketplace,sponsor promote organization,support
+1055,,,IV
+1056,MLOPs operations,diverse ML lifecycle infrastructure,abstract
+1057,,,Copyright
+1058,rights,,reserved
+1059,selected  that,future  strategy,help
+1060,,,VI
+1061,Automation,wherever ML processes,augmented in
+1062,,,VII
+1063,specific  roles,EA BT,created
+1064,,,VIII
+1065,appropriate  that,continuous ML learning,use
+1066,,,IX
+1067,,different model development,Ability
+1068,ML solutions,applications,deployed
+1069,lightweight weight versions,use case,created for
+1070,Docker it,serialized consuming applications,deployed as
+1071,,,XI
+1072,Choice,solution development case,use
+1073,generally ML model training,nearer training data source,is
+1074,This,hence  training,enables
+1075,Model deployment,consuming  applications,depend upon
+1076,Platform,particular ML development toolkit,support
+1077,recommendation,use case development,is
+1078,that,adthe  organization,identified
+1079,gray  that,hidden  complexities,architected
+1080,best  that,organization,help
+1081,,,5
+1082,it,model,relies on
+1083,It,build  cycles,makes
+1084,,one time model,think about
+1085,that,model lifecycle,Adopt
+1086,Use models,Use metrics,Establish
+1087,Metrics,standard performance precision,be standard
+1088,they,,be
+1089,rights,,reserved
+1090,,AI model training,metrics
+1091,,business operations,metrics
+1092,o,data metrics dataset frequencies,update
+1093,changes,data,change
+1094,often  it,operational  model,invoked
+1095,,which,applications
+1096,,,Are
+1097,accuracy,,are
+1098,memory  model,much  compute,consume
+1099,model performance that,model versions,Create
+1100,important  it,AI ML model,is
+1101,It,also DevOps process,introduces
+1102,One,complex integration itself,is
+1103,where ML step,process,divided between different
+1104,It,entire  requirements,be practical
+1105,that,easily data transformation scripts,Identify
+1106,following Data Analysis,data acquisition,Consider
+1107,,Also  modeling,includes
+1108,,data,Develop
+1109,,Also data quality,create
+1110,Experimentation,feature engineering,Includes
+1111,,model outputs,Develop
+1112,Release Process,model data production,Includes
+1113,AI release Operationalization,operational  metrics,Integrate
+1114,,AI ML pipeline,Create operational
+1115,,model retraining model capture,For subsequent
+1116,,,Copyright
+1117,rights,,reserved
+1118,,Model model training,Page
+1119,,AI ML retraining,Instrument
+1120,,AI ML model,Develop
+1121,,,accuracy
+1122,end  process,AI ML projects,accelerate
+1123,,,Artifacts
+1124,,,artifacts
+1125,software development this,code,In
+1126,similar  practice,separate ML cycles,is
+1127,unexpectedly model change,model,happens
+1128,ability,back data set effort,save
+1129,,naming data files,decide on
+1130,different  teams,modeling which,be
+1131,application developers,preferred  tools,Consider
+1132,resources,secure  manner,need
+1133,Containers,consistent ML way,let
+1134,iteratively container that,transparency,modify
+1135,isolation  control,threats,improve
+1136,integrated security it,environment,Look for
+1137,Container architectures,model development,have
+1138,software applications,based  interface,make
+1139,Containers,abstraction models,create
+1140,rights,,reserved
+1141,,14  infrastructure,Page
+1142,AI ML team,model platform,lets
+1143,open source that,more  AI,Choose
+1144,,In  dilemma,Cloud vs
+1145,area,where decision training,be
+1146,how work much,cloud,needs
+1147,where cloud they,traditionally data centers,follows
+1148,several  who,two year plan,has several
+1149,that,,make
+1150,is  they,prem,decide
+1151,most  customers,,is
+1152,AI ML models,development,require
+1153,you,more ML flexibility,allows
+1154,It,also IT control,provide
+1155,developed source you,third party vendors,supplies
+1156,that,existing  databases,Look for
+1157,low latency it,AI ML life cycle,make
+1158,open Apache you,data,help
+1159,also  that,integrated security business,select
+1160,Security Security,i. e. compliance GDPR,is
+1161,on prem,,is tricky
+1162,GDPR  one,cloud,be on
+1163,that,existing  certifications,has
+1164,That,,is
+1165,Security,,is
+1166,critical Data Location,critical customer cloud,"
+
+ "
+1167,rights,,reserved
+1168,Page,14  area,is
+1169,machine they,data,need
+1170,we,what,is
+1171,where machine they,data,run
+1172,That,physical  location,means
+1173,you,models,is
+1174,else machine learning they,data,run
+1175,,,be
+1176,So  proximity,data,is
+1177,up  one,up  location,is
+1178,data lake they,cloud,means
+1179,wherever data one,models,means
+1180,That,important machine learning cloud,is
+1181,where  data,,Think about
+1182,much Work one,especially Work training,resources
+1183,machine one,then  it,using
+1184,bursty  it,bursty data workload,is
+1185,them,data,Ease of
+1186,importance,AI,is undeniable
+1187,certain  it,data,receives
+1188,more data AI,better,has
+1189,Researchers,Copyright  ©,have
+1190,rights,,reserved
+1191,,common data workflow,Page
+1192,inevitable  most,work,require inevitable
+1193,We,machine learning models,offer
+1194,,deployed machine learning models,Track
+1195,,better management product,Provide
+1196,Knowledge Accessibility AI,foreseeable business future,becoming
+1197,Organizational  users,documentation,write many
+1198,these,,become
+1199,so  they,new  AI,know
+1200,They,,become
+1201,build,top AI Platform,is
+1202,AI services they,AI Platform,layer
+1203,services,other,design for
+1204,So AI Platform,,move
+1205,we,what,define
+1206,AI service,,be
+1207,,,7
+1208,Copyright,platform,©
+1209,rights,,reserved
+1210,,14  8,Page
+1211,long  it,south Lifecycle platforms,suggested
+1212,based  view,,look like
+1213,Case Studies,similar case TECHM,proposed based
+1214,AI ML assets,organization,reuse
+1215,,easy  production,Platform for easy
+1216,,,Governance
+1217,based Collaborative ecosystem,CI CD pipeline,"
+
+ Copyright"
+1218,rights,,reserved
+1219,functional North COE,AI ML development effort,leverage organizational
+1220,,business value generation,Integration of
+1221,based Uipath    Integration,AI ML lifecycle management,"   
+
+ "
+1222,rights,,reserved
+1223,Mahindra Limited TechM,various  professionals,referred to
+1224,presentations,only information services,are for
+1225,They,complete market material,purport
+1226,we,accuracy,claim
+1227,thereof  viewers,own  risk,be liable
+1228,presentations,express  TechM,reproduced
+1229,unauthorized  use,public  herein,prohibited
+1230,differing  they,differing  standards,vary
+1231,You,presentation,repackage
+1232,Products,respective  TechM.,are
+1233,Information,particular presentation purpose,contained in
+1234,expressions,notice,are subject
+1235,You,techmahindra,Thank
+1236,,,com
